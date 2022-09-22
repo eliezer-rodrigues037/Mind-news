@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.3.4",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^6",
     "next": "12.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sass": "^1.54.9"
+    "react-icons": "^4.4.0",
+    "sass": "^1.54.9",
+    "stripe": "^10.11.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.18",
